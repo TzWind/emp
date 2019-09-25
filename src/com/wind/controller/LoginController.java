@@ -14,7 +14,7 @@ public class LoginController {
 		
 		return "index";
 	}
-	
+	 
 	
 	@RequestMapping("login")
 	public String login(String name) {
